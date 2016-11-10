@@ -7,7 +7,7 @@
 }
 
 
-#meni {
+ #meni {
 	background-color: gray;
 	width: 800;
 	text-align: center;
@@ -38,4 +38,17 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
+}
+
+.balonera {
+    color: red;
+    text-decoration: underline;
+}
+
+.oculus {
+    background-color: aqua;
+}
+
+.gps {
+    background-color: red;
 }
