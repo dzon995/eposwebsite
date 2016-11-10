@@ -2,14 +2,15 @@
 
 #wrap {
 	background-color: #ccc;
-	width: 1200px;
+	width: 1500px;
 	margin: 0 auto;
 }
 
 
  #meni {
 	background-color: gray;
-	width: 800;
+    list-style-position: center;
+	width: 1000;
 	text-align: center;
 	vertical-align: center;
 	margin: 0 auto;
@@ -17,10 +18,13 @@
 
 #navMenu {
     list-style-type: none;
+
     margin: 0;
     padding: 0;
+
     overflow: hidden;
     background-color: #333;
+
 }
 
 li {
@@ -31,7 +35,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 20px 140px;
     text-decoration: none;
 }
 
